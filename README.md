@@ -22,7 +22,7 @@ This project serves as a guide to help you build an application with Persephony.
 
 ## Setting up the Movie Quote Application locally
 
-1. Clone or download this repo locally.
+1. Clone or download this repo locally. To further understand the processes in this application, additional reading can be found in the Getting Started Tutorial.
 2. Install the node packages necessary using command:
 
    ```bash
