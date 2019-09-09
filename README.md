@@ -30,13 +30,14 @@ This project serves as a guide to help you build an application with Persephony.
    ```
 
 3. Configure environment variables (this tutorial uses the [dotenv package](https://www.npmjs.com/package/dotenv)).
-   | ENV VARIABLE | DESCRIPTION |
-   | ------------ | ----------- |
-   | ACCOUNT_ID | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard |
-   | AUTH_TOKEN | Authentication Token which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard |
+
+   | ENV VARIABLE            | DESCRIPTION                                                                                                                                                                   |
+   | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+   | ACCOUNT_ID              | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                               |
+   | AUTH_TOKEN              | Authentication Token which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                     |
    | PERSEPHONY_PHONE_NUMBER | Persephony Phone Number associated with Movie Quote Application found under [My Numbers](https://www.persephony.com/dashboard/portal/numbers) in Dashboard (**E.164 format**) |
-   | PERSEPHONY_APP_ID | Application ID associated with Persephony Movie Quote Application found under [Apps](https://www.persephony.com/dashboard/portal/applications) in Dashboard |
-   | HOST_URL | URL for hosted Movie Quote Application |
+   | PERSEPHONY_APP_ID       | Application ID associated with Persephony Movie Quote Application found under [Apps](https://www.persephony.com/dashboard/portal/applications) in Dashboard                   |
+   | HOST_URL                | URL for hosted Movie Quote Application                                                                                                                                        |
 
 ## Using the Movie Quote Application
 
