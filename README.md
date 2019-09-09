@@ -61,7 +61,7 @@ This project serves as a guide to help you build an application with Persephony.
    Sent Text Message: The random quote: "I'm about to do to you what Limp Bizkit did to music in the late '90s."
    ```
 
-2. Sending movie quote via call (where +1XXXXXXXXXX represents the E.164 formatted phone number the quote should go to)
+2. Sending movie quote via call (where +1XXXXXXXXXX represents the E.164 formatted phone number the quote should go to):
 
    ```bash
    $ node src/main call +1XXXXXXXXXX
